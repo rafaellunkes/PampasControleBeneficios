@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios\obj\Debug\net10.0\ProjetoBeneficios.MvcApplicationPartsAssemblyInfo.cache

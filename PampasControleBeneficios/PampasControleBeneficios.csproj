@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PampasControleBeneficios.Aplicacao\PampasControleBeneficios.Aplicacao.csproj" />
+    <ProjectReference Include="..\PampasControleBeneficios.Infra\PampasControleBeneficios.Infra.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.14" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.16.10" />
+
+  </ItemGroup>
+
+</Project>

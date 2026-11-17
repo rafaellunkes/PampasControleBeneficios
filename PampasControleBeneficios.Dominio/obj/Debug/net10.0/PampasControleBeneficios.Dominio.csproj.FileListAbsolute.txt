@@ -1,0 +1,11 @@
+c:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\bin\Debug\net10.0\PampasControleBeneficios.Dominio.deps.json
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\bin\Debug\net10.0\PampasControleBeneficios.Dominio.dll
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\bin\Debug\net10.0\PampasControleBeneficios.Dominio.pdb
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.dll
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\refint\PampasControleBeneficios.Dominio.dll
+C:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\PampasControleBeneficios.Dominio.pdb
+c:\Users\rafae\OneDrive\Documentos\programação\Silvana\PampasControleBeneficios\PampasControleBeneficios.Dominio\obj\Debug\net10.0\ref\PampasControleBeneficios.Dominio.dll

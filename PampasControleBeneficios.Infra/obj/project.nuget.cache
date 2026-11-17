@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBy+9IhmZ7c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Documentos\\programação\\Silvana\\PampasControleBeneficios\\PampasControleBeneficios.Infra\\PampasControleBeneficios.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.9\\microsoft.extensions.configuration.10.0.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.9\\microsoft.extensions.configuration.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.9\\microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
